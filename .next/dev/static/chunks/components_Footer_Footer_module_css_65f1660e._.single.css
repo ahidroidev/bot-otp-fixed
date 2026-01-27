@@ -1,0 +1,24 @@
+/* [project]/components/Footer/Footer.module.css [client] (css) */
+.Footer-module__rnk_JG__footer {
+  flex: 1;
+  width: 400px;
+  height: 20px;
+  padding: 20px;
+  display: flex;
+}
+
+.Footer-module__rnk_JG__footer a {
+  color: #757bc3;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  font-size: medium;
+  display: flex;
+}
+
+.Footer-module__rnk_JG__logo {
+  height: 1em;
+  margin-left: .5rem;
+}
+
+/*# sourceMappingURL=components_Footer_Footer_module_css_65f1660e._.single.css.map*/

@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/bot-otp/components/Footer/Footer.module.css"],"sourcesContent":[".footer {\r\n  width: 400px;\r\n  display: flex;\r\n  flex: 1;\r\n  height: 20px;\r\n  padding: 20px;\r\n\r\n}\r\n\r\n.footer a {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  flex-grow: 1;\r\n  font-size: medium;\r\n  color: #757bc3;\r\n}\r\n\r\n.logo {\r\n  height: 1em;\r\n  margin-left: 0.5rem;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;AASA;;;;;;;;;AASA"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/bot-otp/components/Header/Header.module.css"],"sourcesContent":[".head {\r\n    display: flex;\r\n    justify-content: center;\r\n    width: 400px;\r\n    font-size: medium;\r\n    color: #757bc3;\r\n}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/bot-otp/styles/globals.css"],"sourcesContent":["html,\r\nbody {\r\n  padding: 0;\r\n  margin: 0;\r\n  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,\r\n    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;\r\n}\r\n\r\na {\r\n  color: inherit;\r\n  text-decoration: none;\r\n}\r\n\r\n* {\r\n  box-sizing: border-box;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;AAQA;;;;;AAKA"}}]
+}

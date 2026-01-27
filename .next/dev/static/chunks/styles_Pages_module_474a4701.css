@@ -1,0 +1,39 @@
+/* [project]/styles/Pages.module.css [client] (css) */
+.Pages-module__bCBuba__container {
+  color: #fff;
+  background: linear-gradient(153deg, #7438d8, #1296aa 74%);
+  width: 400px;
+  height: 485px;
+  padding: 5px;
+}
+
+.Pages-module__bCBuba__main {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 390px;
+  height: 475px;
+  display: flex;
+}
+
+.Pages-module__bCBuba__title {
+  font-size: x-large;
+}
+
+.Pages-module__bCBuba__description {
+  text-align: center;
+  align-items: center;
+  height: 100px;
+  margin: 40px;
+  display: flex;
+}
+
+.Pages-module__bCBuba__code {
+  color: gray;
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 20px;
+  font: small Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+/*# sourceMappingURL=styles_Pages_module_474a4701.css.map*/
