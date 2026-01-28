@@ -8,7 +8,7 @@ export default function New({ navigateToPage}) {
           <p className={styles.description}>
             Status in checking... Please wait a moment.
           </p>
-          <h1 className={styles.code}>New Page ./components/New/index.js</h1>
+          <h1 className={styles.code}>Encrypt DATA...</h1>
           <p>{"[ Premium OTP ]"}</p>
           <button onClick={() => navigateToPage('getotp')}>{"< Stop uncrypt data.  "}</button>
         </main>
