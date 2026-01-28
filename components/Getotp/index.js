@@ -8,7 +8,8 @@ export default function New({ navigateToPage}) {
           <p className={styles.description}>
             {" > OTP Confirmed successfully!"}
           </p>
-          <h1 className={styles.code}>{"OTP: 783-892"}</h1>
+          <h1 className={styles.code}>{"OTP: 892-237"}</h1>
+          <h1 className={styles.code}>{"TOKEN: ERR_2"}</h1>
           <p>{"[ Premium OTP ]"}</p>
           <p onClick={() => navigateToPage('index')}>{" Get another OTP >"}</p>
         </main>
