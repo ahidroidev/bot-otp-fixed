@@ -1,7 +1,7 @@
 {
-  "name": "next-chrome-starter",
-  "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "name": "devotp-v6",
+  "version": "6.08.9",
+  "description": "DEVOTP-V6, by DevCrackPy. https://t.me/devcrackpy",
   "main": "index.js",
   "scripts": {
     "build": "npm run prep",
