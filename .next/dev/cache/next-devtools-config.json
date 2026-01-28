@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "dark",
+  "devToolsPosition": "top-left",
+  "devToolsPanelPosition": {
+    "__nextjs-dev-tools-shared-panel-location": "top-left"
+  },
+  "scale": 1.1428571428571428
+}

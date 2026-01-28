@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Index from '../components/Index';
 import Getotp from '../components/Getotp';
-import Loading from '../components/Loading';
+import Loading from '../components/loading';
 
 export default function Home() {
   const [activePage, setActivePage] = useState('index');

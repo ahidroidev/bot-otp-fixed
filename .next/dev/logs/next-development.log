@@ -815,3 +815,564 @@ Expected '</', got '}'
 [02:41:30.236] Server  LOG     ✓ Compiled in 81ms
 [02:41:30.496] Browser LOG     Refreshing page data due to server-side change
 [02:43:24.708] Server  LOG     ✓ Compiled in 64ms
+[02:47:21.489] Server  LOG     ✓ Compiled in 7ms
+[02:54:07.138] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.150] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.159] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.200] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.275] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.302] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.320] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.341] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:07.348] Server  LOG     ✓ Compiled in 320ms
+[02:54:08.505] Browser ERROR   ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+https://nextjs.org/docs/messages/module-not-found
+[02:54:21.235] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.241] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.249] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.254] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.268] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.279] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.286] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.292] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.302] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.308] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.318] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.329] Server  ERROR   ⨯ ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.340] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.348] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.358] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.379] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:21.382] Server  LOG     ✓ Compiled in 124ms
+[02:54:21.496] Browser ERROR   ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+https://nextjs.org/docs/messages/module-not-found
+[02:54:21.496] Browser ERROR   ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+https://nextjs.org/docs/messages/module-not-found
+[02:54:29.502] Browser ERROR   ./pages/index.js:3:1
+Module not found: Can't resolve '../components/getotp'
+  1 | import React, { useState } from 'react';
+  2 | import Index from '../components/Index';
+> 3 | import Getotp from '../components/getotp';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import Loading from '../components/loading';
+  5 |
+  6 | export default function Home() {
+
+https://nextjs.org/docs/messages/module-not-found
+[02:54:29.503] Browser ERROR   ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+https://nextjs.org/docs/messages/module-not-found
+[02:54:50.422] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.435] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.449] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.458] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.467] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.471] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.478] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.484] Server  ERROR   ⨯ ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:54:50.485] Server  LOG     ✓ Compiled in 192ms
+[02:54:51.508] Browser ERROR   ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+https://nextjs.org/docs/messages/module-not-found
+[02:55:46.498] Browser ERROR   ./pages/index.js:4:1
+Module not found: Can't resolve '../components/loading'
+  2 | import Index from '../components/Index';
+  3 | import Getotp from '../components/Getotp';
+> 4 | import Loading from '../components/loading';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function Home() {
+  7 |   const [activePage, setActivePage] = useState('index');
+
+https://nextjs.org/docs/messages/module-not-found
