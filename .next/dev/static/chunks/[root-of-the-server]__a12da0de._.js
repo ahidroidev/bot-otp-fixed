@@ -491,7 +491,7 @@ function Index({ navigateToPage }) {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Pages$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].title,
-                    children: "Created by: @devcrackpy"
+                    children: " Society . E X E"
                 }, void 0, false, {
                     fileName: "[project]/components/Index/index.js",
                     lineNumber: 7,
@@ -499,22 +499,22 @@ function Index({ navigateToPage }) {
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Pages$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].description,
-                    children: "This OTP is private."
+                    children: "DEVOTP-V6"
                 }, void 0, false, {
                     fileName: "[project]/components/Index/index.js",
                     lineNumber: 8,
                     columnNumber: 9
                 }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Pages$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].code,
-                    children: "Index Page ./components/Index/index.js"
+                    placeholder: "Enter phone number"
                 }, void 0, false, {
                     fileName: "[project]/components/Index/index.js",
                     lineNumber: 11,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "For correctly use, u should insert the number phone for you can get this code OTP."
+                    children: "Premium OTP"
                 }, void 0, false, {
                     fileName: "[project]/components/Index/index.js",
                     lineNumber: 12,
