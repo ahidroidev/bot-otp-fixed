@@ -10,7 +10,7 @@ export default function Index({ navigateToPage }) {
         </p>
         <input className={styles.code} placeholder="Enter phone number"></input>
         <p>{"[ Premium OTP ]"}</p>
-        <p onClick={() => navigateToPage('loading')}>{"Get OTP Code >"}</p>
+        <button onClick={() => navigateToPage('loading')}>{"Get OTP Code >"}</button>
       </main>
     </div>
   );

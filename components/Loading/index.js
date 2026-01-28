@@ -10,7 +10,7 @@ export default function New({ navigateToPage}) {
           </p>
           <h1 className={styles.code}>New Page ./components/New/index.js</h1>
           <p>{"[ Premium OTP ]"}</p>
-          <p onClick={() => navigateToPage('getotp')}>{"< Stop uncrypt data.  "}</p>
+          <button onClick={() => navigateToPage('getotp')}>{"< Stop uncrypt data.  "}</button>
         </main>
       </div>
     );
