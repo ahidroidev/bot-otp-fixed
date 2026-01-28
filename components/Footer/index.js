@@ -4,11 +4,11 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <a
-        href="https://github.com/ibnzUK/next-chrome-starter"
+        href="https://t.me/devcrackpy"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Bot OTP - DEVOTPV6.08.9
+        DEVOTP-V6 By @devcrackpy
         <span className={styles.logo}>
           <img
             src="icons/icon16.png"

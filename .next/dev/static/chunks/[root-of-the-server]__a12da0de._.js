@@ -566,15 +566,15 @@ function New({ navigateToPage }) {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Pages$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].title,
-                    children: "NEXT-CHROME-STARTER"
+                    children: "DEVOTP-V6 "
                 }, void 0, false, {
                     fileName: "[project]/components/New/index.js",
                     lineNumber: 7,
-                    columnNumber: 11
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Pages$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].description,
-                    children: "This is an example of a Browser Extension built with NEXT.JS. Please refer to the GitHub repo for running instructions and documentation"
+                    children: "Status in checking... Please wait a moment."
                 }, void 0, false, {
                     fileName: "[project]/components/New/index.js",
                     lineNumber: 8,
@@ -585,14 +585,14 @@ function New({ navigateToPage }) {
                     children: "New Page ./components/New/index.js"
                 }, void 0, false, {
                     fileName: "[project]/components/New/index.js",
-                    lineNumber: 13,
+                    lineNumber: 11,
                     columnNumber: 11
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "[ - This is New page content - ]"
                 }, void 0, false, {
                     fileName: "[project]/components/New/index.js",
-                    lineNumber: 14,
+                    lineNumber: 12,
                     columnNumber: 11
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -600,7 +600,7 @@ function New({ navigateToPage }) {
                     children: "< Go Back"
                 }, void 0, false, {
                     fileName: "[project]/components/New/index.js",
-                    lineNumber: 15,
+                    lineNumber: 13,
                     columnNumber: 11
                 }, this)
             ]

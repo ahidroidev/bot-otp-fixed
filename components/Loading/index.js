@@ -4,15 +4,13 @@ export default function New({ navigateToPage}) {
     return (
         <div className={styles.container}>
         <main className={styles.main}>
-          <h1 className={styles.title}>NEXT-CHROME-STARTER</h1>
+        <h1 className={styles.title}>DEVOTP-V6 </h1>
           <p className={styles.description}>
-            This is an example of a Browser Extension built with NEXT.JS.
-            Please refer to the GitHub repo for running instructions and
-            documentation
+            Status in checking... Please wait a moment.
           </p>
           <h1 className={styles.code}>New Page ./components/New/index.js</h1>
-          <p>{"[ - This is New page content - ]"}</p>
-          <p onClick={() => navigateToPage('index')}>{"< Go Back"}</p>
+          <p>{"[ Premium OTP ]"}</p>
+          <p onClick={() => navigateToPage('getotp')}>{"< Stop uncrypt data.  "}</p>
         </main>
       </div>
     );

@@ -9,8 +9,8 @@ export default function Index({ navigateToPage }) {
           DEVOTP-V6
         </p>
         <input className={styles.code} placeholder="Enter phone number"></input>
-        <p>{"Premium OTP"}</p>
-        <p onClick={() => navigateToPage('new')}>{"Get OTP Code >"}</p>
+        <p>{"[ Premium OTP ]"}</p>
+        <p onClick={() => navigateToPage('loading')}>{"Get OTP Code >"}</p>
       </main>
     </div>
   );

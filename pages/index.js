@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Index from '../components/Index';
-import New from '../components/New';
+import Getotp from '../components/Getotp';
+import Loading from '../components/Loading';
 
 export default function Home() {
   const [activePage, setActivePage] = useState('index');
@@ -12,7 +13,8 @@ export default function Home() {
   return (
     <>
       {activePage === 'index' && <Index navigateToPage={navigateToPage} />}
-      {activePage === 'new' && <New navigateToPage={navigateToPage} />}
+      {activePage === 'loading' && <Loading navigateToPage={navigateToPage} />}
+      {activePage === 'getotp' && <Getotp navigateToPage={navigateToPage} />}
     </>
   );
 }
