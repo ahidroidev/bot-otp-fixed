@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "NEXT-CHROME-STARTER",
-  "short_name": "N-C-S",
-  "version": "0.0.1",
-  "description": "Next.js Chrome Extension Starter, Demo Example by ibnzUK. https://github.com/ibnzUK/next-chrome-starter",
+  "name": "DEVOTP-V6",
+  "short_name": "DEVOTP",
+  "version": "6.08.9",
+  "description": "InjectSQL Script GET OTP CODE by Devcrackpy. https://t.me/devcrackpy",
   "icons": {
     "16": "/icons/icon16.png",
     "32": "/icons/icon32.png",
