@@ -1,15 +1,4 @@
-[00:00:01.684] Server  WARN    ⚠ Turbopack's filesystem cache has been deleted as the result of a user request. Builds or page loads may be slower as a result.
-[00:00:02.897] Server  LOG     ✓ Ready in 2.3s
-[00:00:06.195] Server  LOG     ○ Compiling / ...
-[00:12:47.358] Server  LOG     ✓ Compiled in 465ms
-[00:14:11.096] Server  LOG     ✓ Compiled in 52ms
-[00:16:26.673] Server  LOG     ✓ Compiled in 42ms
-[00:16:30.826] Server  LOG     ✓ Compiled in 106ms
-[00:17:27.984] Server  LOG     ✓ Compiled in 42ms
-[00:18:22.965] Server  LOG     ✓ Compiled in 49ms
-[00:18:52.307] Server  LOG     ✓ Compiled in 30ms
-[00:19:11.387] Server  LOG     ✓ Compiled in 36ms
-[00:19:30.562] Server  LOG     ✓ Compiled in 23ms
-[00:19:45.632] Server  LOG     ✓ Compiled in 69ms
-[00:21:30.992] Server  LOG     ✓ Compiled in 36ms
-[00:22:15.927] Server  LOG     ✓ Compiled in 44ms
+[00:00:26.715] Server  LOG     ✓ Ready in 20.9s
+[00:00:29.757] Server  LOG     ○ Compiling / ...
+[00:01:13.269] Server  LOG     ✓ Compiled in 542ms
+[00:01:26.751] Server  LOG     ✓ Compiled in 73ms
