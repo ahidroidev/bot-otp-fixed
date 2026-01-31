@@ -6,8 +6,8 @@ export default function New({ navigateToPage }) {
       <main className={styles.main}>
         <h1 className={styles.title}>DEVOTP-V6 </h1>
         <p className={styles.description}>{" > OTP Confirmed successfully!"}</p>
-        <h1 className={styles.code}>{"OTP: 378-901"}</h1>
-        <h1 className={styles.code}>{"TOKEN: Successfully!"}</h1>
+        <h1 className={styles.code}>{"OTP: 416-730"}</h1>
+        <h1 className={styles.code}>{"Key Dinamic: 977930!"}</h1>
         <p>{"[ Premium OTP ]"}</p>
         <button onClick={() => navigateToPage("index")}>
           {" Get another OTP >"}
