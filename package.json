@@ -13,7 +13,6 @@
   "author": "DevCrackPy (@devcrackpy / https://t.me/devcrackpy)",
   "license": "ISC",
   "dependencies": {
-    "dependencies": "^0.0.1",
     "glob": "^10.2.3",
     "next": "^16.1.5",
     "react": "^18.2.0",
